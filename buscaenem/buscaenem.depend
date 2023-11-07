@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1571984854 source:c:\users\hercu\onedrive\documentos\ufop\19.2\aeds\tp1\tp1_1828072\buscaenem.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcoes.h"
+
+1571767119 c:\users\hercu\onedrive\documentos\ufop\19.2\aeds\tp1\tp1_1828072\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1571984234 source:c:\users\hercu\onedrive\documentos\ufop\19.2\aeds\tp1\tp1_1828072\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcoes.h"
+
